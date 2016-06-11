@@ -13,4 +13,4 @@ end entity ; -- BLU
 architecture arch of BLU is
 begin
 
-end architecture ; -- arch
+end architecture ;
